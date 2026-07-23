@@ -13,7 +13,7 @@
 # geetha.emp_info()
 
 
-##encapsulaion and abstraction 
+#encapsulaion and abstraction 
 
 # class Database:
 #     def __init__(self):
