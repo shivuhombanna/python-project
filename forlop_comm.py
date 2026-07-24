@@ -40,7 +40,9 @@
 # a=100
 # b= a + funk(4)
  print(b)
-# lambda function
+
+
+# lambda functio%n
 duble= lambda c:c*2
  print(duble(677 ))
 
